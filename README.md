@@ -38,7 +38,7 @@ Load the app at [http://localhost:3000](http://localhost:3000).
 ## Demo
 A demo of the app can be found here:
 
-[https://protected-stream-55013.herokuapp.com/](https://protected-stream-55013.herokuapp.com/)
+[https://cryptic-hamlet-63165.herokuapp.com/](https://cryptic-hamlet-63165.herokuapp.com/)
 
 ## Technologies
 * React
